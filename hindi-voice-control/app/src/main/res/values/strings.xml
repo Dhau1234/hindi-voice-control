@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hindi Voice Control</string>
+    <string name="mic_button">Voice Control (Hindi)</string>
+    <string name="status_listening">Sun raha hai… bolo</string>
+    <string name="notification_alarm_title">Alarm</string>
+    <string name="notification_alarm_text">Aapki voice alarm</string>
+    <string name="notification_channel_alarm">Hindi Voice Control Alarm</string>
+    <string name="notification_channel_alarm_description">Voice alarm notifications</string>
+</resources>
